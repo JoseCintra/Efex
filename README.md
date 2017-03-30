@@ -8,7 +8,8 @@ Efex is a Responsible web application that performs analysis of mathematical fun
   <li>Works on all browsers and devices (cell phones, tablets, desktop and so on)</li>
   <li>Displays formulas and graphs in mathematical notation</li>
   <li>Available as a native mobile app (via <a href="https://build.phonegap.com/">phonegap)</a></li>
-  <ul>Functions Analysis
+  <li>Functions Analysis:</li>
+  <ul>
     <li>Roots of Functions</li>
     <li>Maxima and Minima </li>
     <li>Continuity</li>
