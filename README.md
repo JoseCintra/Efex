@@ -4,16 +4,19 @@ Efex is a Responsible web application that performs analysis of mathematical fun
 
 <h2>Features</h2>
 <ul>
-<li>Open Source (Apache license)</li>
-<li>Works on all browsers and devices (cell phones, tablets, desktop and so on)</li>
-<li>Displays formulas and graphs in mathematical notation</li>
-<li>Roots of Functions</li>
-<li>Maxima and Minima </li>
-<li>Continuity</li>
-<li>Infinitesimal calculus</li>
-<li>Domain and Image</li>
-<li>Graph plotting</li>
-<li>Etc.</li>
+  <li>Open Source (Apache license)</li>
+  <li>Works on all browsers and devices (cell phones, tablets, desktop and so on)</li>
+  <li>Displays formulas and graphs in mathematical notation</li>
+  <li>Available as a native mobile app (via <a href="https://build.phonegap.com/">phonegap)</a></li>
+  <ul>Functions Analysis
+    <li>Roots of Functions</li>
+    <li>Maxima and Minima </li>
+    <li>Continuity</li>
+    <li>Infinitesimal calculus</li>
+    <li>Domain and Image</li>
+    <li>Graph plotting</li>
+    <li>...</li>
+  </ul>
 </ul>
 
 <h2>Powered by</h2>
