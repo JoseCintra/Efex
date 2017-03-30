@@ -15,6 +15,7 @@ Efex is a Responsible web application that performs analysis of mathematical fun
     <li>Continuity</li>
     <li>Infinitesimal calculus</li>
     <li>Domain and Image</li>
+    <li>Signals study</li>
     <li>Graph plotting</li>
     <li>...</li>
   </ul>
