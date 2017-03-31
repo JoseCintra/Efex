@@ -6,7 +6,7 @@ Efex is a Responsible web application that performs analysis of mathematical fun
 <ul>
   <li>Open Source (Apache license)</li>
   <li>Works on all browsers and devices (cell phones, tablets, desktop and so on)</li>
-  <li>Displays formulas and graphs in mathematical notation</li>
+  <li>Displays formulas in mathematical notation (via <a href="https://www.mathjax.org/">Mathjax</a>) </li>
   <li>Available as a native mobile app (via <a href="https://build.phonegap.com/">phonegap)</a></li>
   <li>Functions Analysis:</li>
   <ul>
@@ -27,7 +27,7 @@ Efex is a Responsible web application that performs analysis of mathematical fun
 <li><a href="https://v4-alpha.getbootstrap.com/">Bootstrap 4</a></li>
 <li><a href="https://jquery.com/">JQuery</a></li>
 <li><a href="https://www.mathjax.org/">Mathjax</a></li>
-<li><a href="http://algebra.js.org/">Algebra.js</a></li>
+<li><a href="http://nerdamer.com/">Nerdamer</a></li>
 </ul>
 
 <h2>Current State</h2>
