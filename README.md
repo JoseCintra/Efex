@@ -28,6 +28,7 @@ Efex is a Responsible web application that performs analysis of mathematical fun
 <li><a href="https://jquery.com/">JQuery</a></li>
 <li><a href="https://www.mathjax.org/">Mathjax</a></li>
 <li><a href="http://nerdamer.com/">Nerdamer</a></li>
+<li><a href="http://maurizzzio.github.io/function-plot/">function-plot</a></li>
 </ul>
 
 <h2>Current State</h2>
