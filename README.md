@@ -1,6 +1,6 @@
 # Efex
 <img src="https://github.com/JoseCintra/Efex/blob/master/img/efex.png" />
-Efex is a Responsible web application that performs analysis of mathematical functions.
+Efex is a Responsive web application that performs the study of the variation of mathematical functions.
 
 <h2>Features</h2>
 <ul>
